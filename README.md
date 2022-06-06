@@ -3,7 +3,7 @@
 <a href="https://www.instagram.com/pownalicious/">
   <img align="left" alt="Pownalicious Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
+<a href="https://discord.com/channels/@me">
   <img align="left" alt="Pownalicious Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/benjamin-ghassemi/">
@@ -13,7 +13,9 @@
 <br />
 <br />
 
-Hi, I'm [Benjamin Ghassemi](https://www.linkedin.com/in/benjamin-ghassemi/), a passionate self-taught full stack web developer and a freelance software engineer from The Netherlands. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Benjamin Ghassemi](https://www.linkedin.com/in/benjamin-ghassemi/), a passionate self-taught full stack web developer and a freelance software engineer from The Netherlands.
+<br/>
+My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -36,7 +38,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <br/>
 
-📊 **this week i spent my time on:**
+📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
 
 ```text
