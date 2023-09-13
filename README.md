@@ -1,7 +1,7 @@
 ### Hey there!
 <br/>
 <a href="https://www.instagram.com/pownalicious/">
-  <img align="left" alt="Pownalicious Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img alt="Pownalicious Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.com/channels/@me">
   <img align="left" alt="Pownalicious Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
