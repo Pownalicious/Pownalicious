@@ -1,26 +1,59 @@
-### Hey there! 👋
+ <h1 align="center">Hey there 👋</h1>
 
-[![Instagram](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png)](https://www.instagram.com/pownalicious/)
+  <p align="center">
+    <a href="https://www.linkedin.com/in/benjamin-ghassemi/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://www.instagram.com/pownalicious/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="mailto:bghassemi@live.nl">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
 
-Hi, I'm [Benjamin Ghassemi](https://www.linkedin.com/in/benjamin-ghassemi/), a passionate self-taught full stack web developer and freelance software engineer from The Netherlands. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+  ---
 
-I am also an open-source enthusiast and maintainer. I've learned a lot from the open-source community, and I love how collaboration and knowledge sharing happen through open source.
+  ### About me
 
-![GIF](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
+  I'm **Benjamin Ghassemi**, a self-taught full stack developer and QA engineer based in the Netherlands. I enjoy building thoughtful interfaces and writing the kind of tests that catch bugs *before* they
+  ship.
 
-- 💼 Open to freelance work. You can reach me at [bghassemi@live.nl](mailto:bghassemi@live.nl).
-- 💬 Feel free to ask me anything; I'm happy to help.
+  I care about the experience, the architecture, and the quality of what I build — whether that's the feature or the test suite that keeps it stable.
 
-**Languages and Tools:**  
+  - 💼 Open to freelance and contract work
+  - 🧪 Currently focused on test automation with Cypress and Playwright
+  - 💬 Reach me at [bghassemi@live.nl](mailto:bghassemi@live.nl)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+  ---
 
-📊 **This week I spent my time on:**
-<!--START_SECTION:waka-->
-```text
-No activity tracked
+  ### Tools I work with
+
+  **Frontend & full stack**
+
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+  **QA & test automation**
+
+  ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+  ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+  **Tooling**
+
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+  ---
+
+  ### 📊 This week
+
+  <!--START_SECTION:waka-->
+  ```text
+  No activity tracked
