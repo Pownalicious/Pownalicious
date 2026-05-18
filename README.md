@@ -1,90 +1,91 @@
+<div align="center">
 
-  <div align="center">
+# Benjamin Ghassemi
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00C7B7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Benjamin+%F0%9F%91%8B;Full+Stack+Developer;QA+A
-  utomation+Engineer;Based+in+The+Netherlands" alt="Typing animation" />
+### Full Stack Developer · QA Automation Engineer
 
-  <br>
+<sub>📍 Netherlands · 💬 EN / NL / FA · 🤝 Open to freelance, contract & full-time</sub>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-ghassemi/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pownalicious/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bghassemi@live.nl)
+<br />
 
-  </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-ghassemi/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bghassemi@live.nl)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pownalicious/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pownalicious)
 
-  ---
+</div>
 
-  ### About me
+---
 
-  Self-taught full stack developer turned QA automation engineer, based in the Netherlands. I care about the things software gets judged on once it leaves the IDE — the experience, the architecture, and the
-  tests that catch regressions before users do.
+## 👋 About
 
-  - 💼 Open to freelance, contract, and full-time roles
-  - 🧪 Currently building UI + API automation frameworks with Cypress and Playwright
-  - 💬 Reach me anytime at [bghassemi@live.nl](mailto:bghassemi@live.nl)
+Self-taught full stack developer turned **QA automation engineer**. I care about clean architecture, thoughtful interfaces, and tests that catch problems before users do.
 
-  ---
+> 🔭 **Currently** — building scalable Cypress and Playwright frameworks, exploring CI/CD pipelines that actually fail fast.
+>
+> 🌱 **Learning** — TypeScript at depth, advanced Playwright patterns, contract testing.
+>
+> 💡 **Believe in** — readable tests, small PRs, fewer abstractions.
 
-  ### Tech stack
+---
 
-  <table>
-    <tr>
-      <td><b>Frontend & Full Stack</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-        <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-      </td>
-    </tr>
-    <tr>
-      <td><b>QA & Automation</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white">
-        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white">
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
-      </td>
-    </tr>
-    <tr>
-      <td><b>Tooling & Workflow</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-        <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white">
-        <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white">
-      </td>
-    </tr>
-  </table>
+## 🧰 Tech stack
 
-  ---
+<table>
+<tr>
+<td valign="top" width="33%">
 
-  ### GitHub stats
+### 💻 Full Stack
+<div align="center">
 
-  <div align="center">
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Pownalicious&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pownalicious&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</div>
+</td>
+<td valign="top" width="33%">
 
-  </div>
+### 🧪 QA & Testing
+<div align="center">
 
-  ---
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/-Chai-A30701?style=flat-square&logo=chai&logoColor=white)
 
-  <div align="center">
+</div>
+</td>
+<td valign="top" width="33%">
 
-  *Clean code, sharper tests, and good coffee.* ☕
+### ⚙️ Tooling
+<div align="center">
 
-  </div>
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-  ---
-  What's new visually
-  ---
+</div>
+</td>
+</tr>
+</table>
 
-  ### 📊 GitHub stats
+---
 
-  <div align="center">
+## 🚀 What I'm working on
 
-  ![Stats](https://github-readme-stats.vercel.app/api?username=Pownalicious&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pownalicious&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+- **Cypress framework** for saucedemo page objects, custom commands, CI-ready
+- **Playwright explorations** auth flows, network mocking, parallel test runs
+- Quietly automating my way out of every manual regression I touch
 
-  </div>
+---
+
+<div align="center">
+<sub>Thanks for stopping by and feel free to <a href="mailto:bghassemi@live.nl">reach out</a> ✌️</sub>
+</div>
